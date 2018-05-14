@@ -37,6 +37,9 @@ gem 'cocoon', '~> 1.2', '>= 1.2.9'
 
 gem 'devise'
 
+gem 'rails_12factor'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
